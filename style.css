@@ -370,24 +370,24 @@ section .title::after{
     left: 0;
     top: 0;
     background: #00ABF0;
-}
+}                                             /*my skill percentage*/
 .skills-content .right .adobe::before{
     width: 80%;
+}
+.skills-content .right .Coding::before{
+    width: 70%;
 }
 .skills-content .right .css::before{
     width: 60%;
 }
 .skills-content .right .Webdesign::before{
-    width: 70%;
-}
-.skills-content .right .Coding::before{
-    width: 50%;
+    width: 60%;
 }
 .skills-content .right .editing::before{
-    width: 70%;
+    width: 50%;
 }
 
-/* teams section styling */
+/* teams section styling */                       /*My Team*/
 .teams .title::after{
     content: "Who With Me";
 }
@@ -540,7 +540,7 @@ section .title::after{
   background: #00ABF0;
   border: 2px solid crimson;
   transition: all 0.3s ease;
-}
+} 
 .right form .button-area button:hover{
   color: #00ABF0;
   background: none;
