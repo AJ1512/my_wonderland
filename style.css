@@ -262,11 +262,11 @@ section .title::after{
 }
 
 /* services section styling */
-/*.services{
+.services{
     display: flex;
     background: url("images/banner4.jpg") no-repeat center;
     height: 100vh;
-}*/
+}
 .services, .teams{
     color:#fff;
     background: #111;
